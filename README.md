@@ -1,1 +1,1 @@
-# mcompany2
+# mcomp-med
